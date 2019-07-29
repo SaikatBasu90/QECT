@@ -1,5 +1,5 @@
 /*
-Author: Priyanka Mukhopadhyay & Saikat Basu
+Author: Saikat Basu & Priyanka Mukhopadhyay
 Affiliation: Indian Statistical Institute, Kolkata
 */
 
