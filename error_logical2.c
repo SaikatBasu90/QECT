@@ -59,7 +59,7 @@ char *token;
 int i;
 if (argc<4)
 {
-  printf("\n\n \t ======= Quantum Error Correction Tool ====== \n \n \t Programmer:Priyanka Mukhopadhyay \t and \t  Saikat Basu \n\t                 Indian Statistical institute ");
+  printf("\n\n \t ======= Quantum Error Correction Tool ====== \n \n \t Programmer:Saikat Basu \t and \t  Priyanka Mukhopadhyay \n\t                 Indian Statistical institute ");
   printf("\n\n Format :: <Input file name> <Output file name> <Threshold> <Level of Concatenation> <QECC_PMD.txt>\n");
 }
 else
