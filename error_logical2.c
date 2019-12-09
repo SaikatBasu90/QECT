@@ -89,7 +89,7 @@ else
 	
 	}
 	
-	fprintf(fp1, " # # Created by Priyanka Mukhopadhyay and Saikat Basu # #\n------------------------------------------------------- \n");
+	fprintf(fp1, " # # Created by Saikat Basu and Priyanka Mukhopadhyay  # #\n------------------------------------------------------- \n");
 	fprintf(fp1, "%s \n", s);
 	fprintf(fp1, "Number of levels of concatenation is %d. \n", concat);
 	
